@@ -100,6 +100,7 @@ List of content:
 * [Argon Group](https://argongroup.com/) - Full service token sale advisory - (Blockchain Cap, Civic)
 * [TokenMarket](https://tokenmarket.net/ico-professional-services) - Full service token sale advisory - (FirstBlood)
 * [NewAlchemy](https://newalchemy.io/strategy/) - ICO strategy and investments 
+* [ICO Hub](http://icohub.org/) - ICO Consulting from the Waves team
 
 ### Legal
 * Switzerland
@@ -243,6 +244,8 @@ List of content:
 * [CyberFund](https://cyber.fund/)
 * [ICO Timeline](https://icotimeline.com/)
 * [ICO Tracker](https://icotracker.net/)
+* [Token Report](http://tokenreport.com/)
+* [Fund Yourself Now](https://www.fundyourselfnow.com/)
 
 ### Podcasts
 * [Coin Interview](https://www.youtube.com/channel/UCOu5mkF_NczLQzICINvzr9w)
