@@ -101,6 +101,7 @@ List of content:
 * [TokenMarket](https://tokenmarket.net/ico-professional-services) - Full service token sale advisory - (FirstBlood)
 * [NewAlchemy](https://newalchemy.io/strategy/) - ICO strategy and investments 
 * [ICO Hub](http://icohub.org/) - ICO Consulting from the Waves team
+* [Cryptonomos](https://cryptonomos.com/) - An innovative platform for conducting Token Launches and servicing tokens
 
 ### Legal
 * Switzerland
