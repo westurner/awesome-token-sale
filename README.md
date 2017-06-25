@@ -120,9 +120,11 @@ List of content:
 
 ### Investment
 #### Accelerator
-  * [Boost VC](https://www.boost.vc/) - A family of founders making Sci-Fi a Reality.
+  * [Boost VC](https://www.boost.vc/) - (SF) A family of founders making Sci-Fi a Reality.
   * [Cofoundit](https://cofound.it/en/) - Distributed VC - (Cofoundit, Musiconomi)
   * [Starta ICO](https://startaico.com/)
+  * [Coinsilium](https://www.coinsilium.com/) - (London) - An accelerator that finances and manages the development of early-stage blockchain technology companies.
+
 #### Institutional
   * [Digital Currency Group](http://dcg.co/) - Digital Currency Group is an venture capital company focusing on the digital currency market. It is located in New York City.
   * [Winklevoss Capital](https://winklevosscapital.com/) - Winklevoss Capital is a family office founded in 2012 by Tyler Winklevoss and Cameron Winklevoss. The firm invests across many asset classes with an emphasis on providing seed funding and infrastructure to early-stage startups.
