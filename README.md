@@ -147,6 +147,8 @@ List of content:
   * [Solidus Capital](http://www.soliduscapital.io/) - (MX) We are a Hedge Fund specialized in Cryptocurrencies Investments focused in Latam’s Family Offices, VC and High Net Worth Individuals as investors.
   * [GABI](http://www.globaladvisors.co.uk/) - (UK/JERSEY) Global Advisors (Jersey) Limited has created the first institutional-grade Bitcoin investment strategy (“GABI”).
   * [CoinFund](https://coinfund.io/) - (US) A blockchain technology research company and proprietary cryptoasset investment vehicle.
+  * [FBG Capital](http://www.fbg.capital/) - (China) - Hedge fund that invests in emerging blockchain technologies and digital assets. FBG is designed to bridge the biggest innovations in the blockchain space with Chinese capital market.
+  * [Hyperchain Capital](http://www.hyperchaincapital.com/) - (Singapore) Digital assets hedge fund in the new economy
 
 ### Development
 * [DistributedLab](https://distributedlab.com/) - A crypto & decentralized technology expertise center, consisting of 30 experts — researchers, developers, analysts.
