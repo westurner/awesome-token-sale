@@ -155,6 +155,7 @@ List of content:
 * [EtherionLab](https://etherionlab.com/) - Smart contract development - (Humaniq)
 * [Smart Contract Solutions](https://smartcontractsolutions.com/) - Authors of OpenZeppelin - (Golem, Storj, Blockchain Capital, etc)
 * [LightCurve](http://www.lightcurve.io/) - Blockchain-based software solutions for corporations of any kind. - (Lisk)
+* [Applied Blockchain](https://appliedblockchain.com/) - Application, Blockchain, etc development
 
 ### PR
 * [Wachsman PR](http://wachsmanpr.com/) - PR team with extensive token sale experience - (Lisk, Aragon, etc)
