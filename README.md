@@ -196,6 +196,14 @@ List of content:
 
 ### Regulatory Articles
 * [SEC Charges Bitcoin Entrepreneur With Offering Unregistered Securities](https://www.sec.gov/news/press-release/2014-111) - SEC
+* [Why Cryptoequity May Not Be Securities](http://lawbitrage.typepad.com/blog/2014/11/cryptoequity-regulation.html) - Lawbitrage (Nov. 12, 2014) In this piece, NUY Law Professor Houman B. Shadab discusses a number of factors that would make certain tokens less likely to constitute securities.
+* [How are Cryptocurrency Investments Different than securities Investments?](https://coincenter.org/entry/how-are-cryptocurrency-investments-different-than-securities-investments) - Jason Somensatto - Coincenter (Feb. 11, 2015) Distinguishes tokens sold primarily for an “consumption motive” from tokens likely to be considered securities.
+* [Stanford Cyber Initiative About Blockchain Tokens](https://www.virtualcurrencyreport.com/2017/04/dax-hansen-and-josh-boehm-speak-at-stanford-cyber-initiative-about-blockchain-tokens/) - Josh Boehm, Dax Hansen and Josh Boehm Speak - Virtual Currency Report (Apr. 12, 2017) Linking to a slide deck featuring analysis of token sales under securities and other laws.
+* [Legal Aspects of Smart Contract Applications: Digital Asset Sales and Capital Markets, Supply Chain Management, Land Registries, Government Records and Smart Cities, and Self-Sovereign Identity](http://www.jdsupra.com/legalnews/legal-aspects-of-smart-contract-55492/) - J. Dax Hansen & Carla L. Reyes - (May 2017) Discusses the application of the Howey test to digital asset sales.
+* [A Securities Law Primer](http://communityenterpriselaw.org/financing-topics/securities/#When_the_Investors_Primary_Motivation_Is_Consumption_of_a_Commodity_or_Service) - SELC e-resource library, CoummunityEnterpriseLaw.Org. Discusses in detail the United Housing Foundation v. Forman case, which held “when a purchaser is motivated by a desire to use or consume the item purchased . . . the securities laws do not apply.”
+* [Bitcoin Financial Regulation: Securities, Derivatives, Prediction Markets, and Gambling](https://ssrn.com/abstract=2423461) - Brito, Jerry and Shadab, Houman B. and Castillo, Andrea - (January 15, 2015). Columbia Science and Technology (2014). Proposes that certain bitcoin denominated instruments that may otherwise fall within the Howey test for investment contract be excluded if they are “bitcoin economy transactions” – transactions in which the entire use of the instrument is within the blockchain ecosystem in which the token was created.
+* [Could your decentralized token project run afoul of securities laws?](https://coincenter.org/entry/could-your-decentralized-token-project-run-afoul-of-securities-laws) - Peter Van Valkenburgh, Coincenter (Sept. 20, 2016) Describes a number of elements that will make a token less likely to fit the Howey test, including building “tokens that have a use-value and are not mere speculative investments.”
+
 
 # Whitepapers
 
