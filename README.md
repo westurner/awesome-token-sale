@@ -184,6 +184,7 @@ List of content:
 * [The Law and Legality of Smart Contracts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2959166)
 * [BitLegal Map](http://map.bitlegal.io/)
 * [Appcoin Law: ICOs the Right Way](http://www.coindesk.com/appcoin-law-part-1-icos-the-right-way/)
+* [Virtual Currency Report](https://www.virtualcurrencyreport.com/) - Perkins Coie LLP
 
 ### Legal Videos
 * [Law & Ethereum Panel Discussion - Ethereum London Meetup](https://www.youtube.com/watch?v=PDVtE3W5fPE)
