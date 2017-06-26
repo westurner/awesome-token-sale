@@ -35,6 +35,9 @@ List of content:
 * Smart Contracts
   * [Libraries](#libraries)
   * [Token Examples](#token-examples)
+* Bounty Campaigns
+  * [Campaign Types](#campaign-types)
+  * [Campaign Examples](#campaign-examples)
 * Community
   * [Forums](#forums)
   * [Chats](#chats)
@@ -208,7 +211,7 @@ List of content:
 # Bounty Campaigns
 It's common to use bounty programs as a way to incentivize people in the community to help out with smaller tasks in exchange for tokens during or before the token sale.
 
-### Types
+### Campaign Types
 * Bitcointalk Signatures
 * Whitepaper Translations
 * Articles and Blog Posts
@@ -216,7 +219,7 @@ It's common to use bounty programs as a way to incentivize people in the communi
 * Facebook Posts or Likes
 * Bugs
 
-### Examples
+### Campaign Examples
 * [Spectiv](https://bitcointalk.org/index.php?topic=1975254.0)
 * [Polybius](https://polybius.io/#ico)
 
