@@ -160,6 +160,9 @@ List of content:
 * [LightCurve](http://www.lightcurve.io/) - Blockchain-based software solutions for corporations of any kind. - (Lisk)
 * [Applied Blockchain](https://appliedblockchain.com/) - Application, Blockchain, etc development
 
+##### Resources
+* [Top 20 Blockchain Consulting Companies](https://www.gartner.com/doc/3615133/market-guide-blockchain-consulting-proofofconcept) - Gartner
+
 ### PR
 * [Wachsman PR](http://wachsmanpr.com/) - PR team with extensive token sale experience - (Lisk, Aragon, etc)
 
