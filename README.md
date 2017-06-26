@@ -205,6 +205,21 @@ List of content:
 ### Token Examples
 * [Consensys Tokens](https://github.com/ConsenSys/Tokens) - Ethereum token examples
 
+# Bounty Campaigns
+It's common to use bounty programs as a way to incentivize people in the community to help out with smaller tasks in exchange for tokens during or before the token sale.
+
+### Types
+* Bitcointalk Signatures
+* Whitepaper Translations
+* Articles and Blog Posts
+* Twitter Posts or Follows
+* Facebook Posts or Likes
+* Bugs
+
+### Examples
+* [Spectiv](https://bitcointalk.org/index.php?topic=1975254.0)
+* [Polybius](https://polybius.io/#ico)
+
 # Community
 
 ### Forums
