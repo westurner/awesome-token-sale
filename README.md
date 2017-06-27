@@ -27,7 +27,6 @@ This list is to help navigate the token sale landscape and provides resources to
   * [Legal Resources](#legal-resources)
   * [Legal Videos](#legal-videos)
   * [Regulatory Resources](#regulatory-resources)
-  * [Regulatory Articles](#regulatory-articles)
 * Whitepapers
   * [Examples](#examples)
 * Smart Contracts
@@ -190,11 +189,10 @@ This list is to help navigate the token sale landscape and provides resources to
 * [IRS Virtual Currency Guidance](https://www.irs.gov/uac/newsroom/irs-virtual-currency-guidance) - IRC
 * [Ponzi schemes Using virtual Currencies](https://www.sec.gov/investor/alerts/ia_virtualcurrencies.pdf) - SEC
 * [Regulating ICOs: Striking a Balance in 2017](http://www.coindesk.com/regulating-ico-strike-balance-2017-deloitte/)
-
-### Regulatory Articles
+* [The Bank Secrecy Act, Cryptocurrencies, and New Tokens: What is Known and What Remains Ambiguous](https://coincenter.org/entry/aml-kyc-tokens) - Peter Van Valkenburgh, Coin Center (May 20, 2017)
 * [SEC Charges Bitcoin Entrepreneur With Offering Unregistered Securities](https://www.sec.gov/news/press-release/2014-111) - SEC
 * [Why Cryptoequity May Not Be Securities](http://lawbitrage.typepad.com/blog/2014/11/cryptoequity-regulation.html) - Lawbitrage (Nov. 12, 2014) In this piece, NUY Law Professor Houman B. Shadab discusses a number of factors that would make certain tokens less likely to constitute securities.
-* [How are Cryptocurrency Investments Different than securities Investments?](https://coincenter.org/entry/how-are-cryptocurrency-investments-different-than-securities-investments) - Jason Somensatto - Coincenter (Feb. 11, 2015) Distinguishes tokens sold primarily for an “consumption motive” from tokens likely to be considered securities.
+* [How are Cryptocurrency Investments Different than securities Investments?](https://coincenter.org/entry/how-are-cryptocurrency-investments-different-than-securities-investments) - Jason Somensatto - Coin Center (Feb. 11, 2015) Distinguishes tokens sold primarily for an “consumption motive” from tokens likely to be considered securities.
 * [Stanford Cyber Initiative About Blockchain Tokens](https://www.virtualcurrencyreport.com/2017/04/dax-hansen-and-josh-boehm-speak-at-stanford-cyber-initiative-about-blockchain-tokens/) - Josh Boehm, Dax Hansen and Josh Boehm Speak - Virtual Currency Report (Apr. 12, 2017) Linking to a slide deck featuring analysis of token sales under securities and other laws.
 * [Legal Aspects of Smart Contract Applications: Digital Asset Sales and Capital Markets, Supply Chain Management, Land Registries, Government Records and Smart Cities, and Self-Sovereign Identity](http://www.jdsupra.com/legalnews/legal-aspects-of-smart-contract-55492/) - J. Dax Hansen & Carla L. Reyes - (May 2017) Discusses the application of the Howey test to digital asset sales.
 * [A Securities Law Primer](http://communityenterpriselaw.org/financing-topics/securities/#When_the_Investors_Primary_Motivation_Is_Consumption_of_a_Commodity_or_Service) - SELC e-resource library, CoummunityEnterpriseLaw.Org. Discusses in detail the United Housing Foundation v. Forman case, which held “when a purchaser is motivated by a desire to use or consume the item purchased . . . the securities laws do not apply.”
