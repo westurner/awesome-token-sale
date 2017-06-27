@@ -4,9 +4,7 @@
 <p align="center"><a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a></p>
 
 
----
-
-> This list is to help navigate the token sale landscape and provide resources to help with everything in the process of launching a successful ICO / token sale
+This list is to help navigate the token sale landscape and provide resources to help with everything in the process of launching a successful ICO / token sale
 
 ---
 
@@ -329,8 +327,4 @@ It's common to use bounty programs as a way to incentivize people in the communi
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, Holographic has waived all copyright and related or neighboring rights to this work.
-
----
-
-`ICO Guides` `Token Sale Guides` `Initial Coin Offering Guides` `Initial Coin Offering Resources` `ICO Services` `Token Sale Services`
+This list is released into the public domain.
