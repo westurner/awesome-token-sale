@@ -10,7 +10,7 @@
 
 ---
 
-Content:
+## Contents
 * Introduction
   * [Articles](#articles)
   * [Videos](#videos)
