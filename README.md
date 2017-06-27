@@ -1,6 +1,9 @@
 <h3 align="center">Awesome Token Sale<!-- Serve Confidently. --></h3>
 <p align="center">Curated list of the token sale resources / ICO resources</p>
 
+<p align="center"><a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a></p>
+
+
 ---
 
 > This list is to help navigate the token sale landscape and provide resources to help with everything in the process of launching a successful ICO / token sale
@@ -306,6 +309,10 @@ It's common to use bounty programs as a way to incentivize people in the communi
   * [Newbium](https://coins.newbium.com/)
   * [Forklog](http://forklog.net/)
   * [AllCoinsNews](http://allcoinsnews.com/)
+  * [NewsBTC](http://www.newsbtc.com/)
+  * [CryptoCoinNews](https://www.cryptocoinsnews.com/)
+  * [Bitcoin.com News](https://news.bitcoin.com/)
+  * [BlockchainTechNews](https://www.blockchaintechnews.com/)
 * General
   * [Rueters](http://www.reuters.com/)
   * [Forbes](https://www.forbes.com)
@@ -321,5 +328,9 @@ It's common to use bounty programs as a way to incentivize people in the communi
 * [CoinGecko](https://www.coingecko.com/en)
 
 ---
+
+Related Lists:
+* [Bitcoin Stuff](https://github.com/Xel/Blockchain-stuff)
+
 
 `ICO Guides` `Token Sale Guides` `Initial Coin Offering Guides` `Initial Coin Offering Resources` `ICO Services` `Token Sale Services`
