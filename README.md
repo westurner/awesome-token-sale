@@ -3,8 +3,11 @@
 
 <p align="center"><a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a></p>
 
+---
 
 This list is to help navigate the token sale landscape and provides resources to help with everything in the process of launching a successful ICO / token sale
+
+---
 
 ## Contents
 * Introduction
@@ -44,8 +47,6 @@ This list is to help navigate the token sale landscape and provides resources to
   * [Podcasts](#podcasts)
   * [Press](#press)
   * [Advertisements](#advertisements)
-
----
 
 # Introduction
 
@@ -318,8 +319,6 @@ It's common to use bounty programs as a way to incentivize people in the communi
 * [CoinFox](http://www.coinfox.info/)
 * [CoinDesk](http://www.coindesk.com/) - Financial sponsored content
 * [CoinGecko](https://www.coingecko.com/en)
-
----
 
 ## License
 
