@@ -8,13 +8,9 @@
 
 > This list is to help navigate the token sale landscape and provide resources to help with everything in the process of launching a successful ICO / token sale
 
-*If you enjoy this list please contribute and share. We are also working on a list for once the token sale has completed and to help navigate running a decentralized organization: [Awesome Decentralized Organization](https://github.com/holographicio/awesome-decentralized-organization)*
-
-*We've also started an open spreadsheet of token sale data to help seeing how others are performing their sales. [Open Token Sale Data](https://docs.google.com/spreadsheets/d/1aFXNx6DtaagywoJTjsiHokU1ZKxWdYO4YtCTawwzxqU/edit?usp=sharing)*
-
 ---
 
-List of content:
+Content:
 * Introduction
   * [Articles](#articles)
   * [Videos](#videos)
@@ -329,8 +325,12 @@ It's common to use bounty programs as a way to incentivize people in the communi
 
 ---
 
-Related Lists:
-* [Bitcoin Stuff](https://github.com/Xel/Blockchain-stuff)
+## License
 
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, Holographic has waived all copyright and related or neighboring rights to this work.
+
+---
 
 `ICO Guides` `Token Sale Guides` `Initial Coin Offering Guides` `Initial Coin Offering Resources` `ICO Services` `Token Sale Services`
