@@ -54,6 +54,7 @@ This list is to help navigate the token sale landscape and provides resources to
 * [What Initial Coin Offerings Are, and Why VC Firms Care](https://hbr.org/2017/03/what-initial-coin-offerings-are-and-why-vc-firms-care) - Harvard Business Review
 * [Blockchain investment vehicles: the future of global retail investment](https://blog.coinfund.io/blockchain-investment-vehicles-3ca285797060) - CoinFund
 * [Why ICOs Fail](https://medium.com/iconominet/why-icos-fail-1f9530a6d135) - ICONOMI
+* [Fat Protocols](http://www.usv.com/blog/fat-protocols) - Union Square Ventures
 * [Crowdsale anti scam/phishing guide](https://github.com/Scanate/tokensale) - Scanate
 * [How Cryptocurrencies and Blockchain-based Startups Are Turning The Traditional Venture Capital Model on Its Head](https://medium.com/@wmougayar/how-cryptocurrencies-and-blockchain-based-startups-are-turning-the-traditional-venture-capital-67636e8ab0fd) - StartupManagement
 * [Trick or Treat? Investment in Blockchain Cryptoassets](https://blog.coinfund.io/trick-or-treat-investment-in-blockchain-cryptoassets-b1ad47ef58c) - CoinFund
