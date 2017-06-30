@@ -83,6 +83,7 @@ This list is to help navigate the token sale landscape and provides resources to
 #### Cryptoeconomics
 * [Cryptoeconimcs 101](https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff)
 * [Antifragile Cryptoeconomi Systems](https://thecontrol.co/antifragile-cryptoeconomic-systems-f66d72b54128)
+* [Economics of Entangled Tokens](https://blog.neufund.org/economics-of-entangled-tokens-9fc5b084e2d2)
 
 #### Evaluation
 * [How to Evaluate an ICO](http://startupmanagement.org/2016/11/24/how-to-evaluate-an-initial-cryptocurrency-offering-ico/)
