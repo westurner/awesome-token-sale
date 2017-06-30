@@ -136,6 +136,7 @@ This list is to help navigate the token sale landscape and provides resources to
   * [NewAlchemy](https://newalchemy.io/investment)
   * [Kryptonite1](https://www.kryptonite1.co/) - UK based publicly listed investment company
   * [Outlier Ventures](https://outlierventures.io/) - Outlier Ventures invests at the convergence of decentralisation and other deep technologies like artificial intelligence, robotics, Internet of Things, 3D printing, and mixed reality.
+  * [Fenbushi VC](http://fenbushi.vc/) - First China-based venture capital firm that exclusively invests in Blockchain-enabled companies
   
 #### Hedge Funds
   * [Polychain Capital](http://polychain.capital/) - (US) Polychain Capital manages a hedge fund committed to exceptional returns for investors through an actively managed portfolio of these blockchain assets.
