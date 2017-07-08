@@ -1,11 +1,11 @@
 <h3 align="center">Awesome Token Sale<!-- Serve Confidently. --></h3>
-<p align="center">Curated list of the token sale resources / ICO resources</p>
+<p align="center">Curated list of token sale / ICO resources</p>
 
 <p align="center"><a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a></p>
 
 ---
 
-This list is to help navigate the token sale landscape and provides resources to help with everything in the process of launching a successful ICO / token sale
+This list is to help navigate the token sale landscape and provide resources to help in the process of launching a successful ICO / token sale.
 
 ---
 
