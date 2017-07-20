@@ -102,6 +102,7 @@ This list is to help navigate the token sale landscape and provide resources to 
 * [NewAlchemy](https://newalchemy.io/strategy/) - ICO strategy and investments 
 * [ICO Hub](http://icohub.org/) - ICO Consulting from the Waves team
 * [Cryptonomos](https://cryptonomos.com/) - An innovative platform for conducting Token Launches and servicing tokens
+* [Sutton Stone](https://suttonstone.com/ico-consulting/) - ICO consulting associated with Mauritius
 
 ### Legal
 * Switzerland
