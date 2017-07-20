@@ -321,6 +321,7 @@ It's common to use bounty programs as a way to incentivize people in the communi
 * [CoinFox](http://www.coinfox.info/)
 * [CoinDesk](http://www.coindesk.com/) - Financial sponsored content
 * [CoinGecko](https://www.coingecko.com/en)
+* [CryptoMinded](https://cryptominded.com) - Currated list of cryptocurrency sites
 
 ## License
 
