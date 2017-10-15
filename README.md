@@ -255,6 +255,8 @@ It's common to use bounty programs as a way to incentivize people in the communi
 * [Blockchain Meetups](https://www.meetup.com/topics/blockchain/all/)
 
 ### Community Organizations
+* [Chamber of Digital Commerce](https://digitalchamber.org)
+  – [@chamberdigital]](https://twitter.com/chamberdigital)
 * [Hyperledger](https://www.hyperledger.org/)
 
 # Marketing
