@@ -172,7 +172,7 @@ This list is to help navigate the token sale landscape and provide resources to 
 
 ### Legal Structures
 #### Investment Structures
-* [SAFT](https://coinlist.co/about/help/saft)
+* [SAFT: Simple Agreement for Future Tokens](https://saftproject.com/) ([SAFT Whitepaper PDF](https://saftproject.com/static/SAFT-Project-Whitepaper.pdf))
 #### Organizational Structures
 * [Stiftung](https://www.wikiwand.com/en/Stiftung)
 
